@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Parrotx2 - snow #2_.jpg" alt="Profile Banner" width="100%">
+</div>
+
 ## Hi there 👋
 
 <!--

@@ -6,7 +6,7 @@
 
 I´m Zephyr, a web and game developer based in Argentina.
 
-I also work as digital artist under the name of @justdanikaru on Twitter/X and BlueSky.
+I also work as digital artist under the name of @justdanikaru on [Twitter/X](https://x.com/justdanikaru) and [BlueSky](https://bsky.app/profile/danikaru.bsky.social). You can check my art portfolio [here](https://danikaru.carrd.co/)
 
 I have an approach to bring to life the projects and ideas that pop into my head.
 
